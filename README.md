@@ -34,7 +34,7 @@ Data Description:
 Attributes X1 to X6 indicate the responses for each question and have values from 1 to 5 where the smaller number indicates less and the higher number indicates more towards the answer.
 
 ## Methods
-Data Cleaning:  The data check was checked for validity and completeness and determined no data cleaning was needed.  
+Data Cleaning:  The data was checked for validity and completeness and determined no data cleaning was needed.  
 
 Data Visualation:  A heat map was generated to look for correlation between customer survey scores and customer happiness.  Barcharts were created to look for any trends or patterns for each survey question.
 
